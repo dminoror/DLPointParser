@@ -1,0 +1,12 @@
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\bin\Debug\DLPointParser.exe.config
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\bin\Debug\DLPointParser.exe
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\bin\Debug\DLPointParser.pdb
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\MainWindow.baml
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\MainWindow.g.cs
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\App.g.cs
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser_MarkupCompile.cache
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser.g.resources
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser.Properties.Resources.resources
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser.csproj.GenerateResource.Cache
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser.exe
+C:\Users\DoubleLight\Desktop\DLPointParser\DLPointParser\obj\Debug\DLPointParser.pdb
